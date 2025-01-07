@@ -18,7 +18,7 @@ const About = () => {
             applications for Android and iOS using Flutter framework.
           </p>
           <a href={CV} className="button button--flex">
-            Download CV
+            View My CV
             <svg
               class="button__icon"
               xmlns="http://www.w3.org/2000/svg"
