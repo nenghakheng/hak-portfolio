@@ -6,6 +6,8 @@ import About from "./about/About.jsx";
 import Skills from "./skills/Skills.jsx";
 import Portfolio from "./portfolio/Portfolio.jsx";
 import Contact from "./contact/Contact.jsx";
+import Footer from "./footer/Footer.jsx";
+import ScrollUp from "./scrollUp/ScrollUp.jsx";
 
 function App() {
   return (
@@ -18,6 +20,9 @@ function App() {
         <Portfolio />
         <Contact />
       </main>
+      
+      <Footer />
+      <ScrollUp />
     </>
   );
 }

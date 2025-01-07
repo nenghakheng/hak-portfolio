@@ -57,10 +57,10 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Mobile Developer</h3>
       <p className="home__description">
-        I'm a mobile developer based in Phnom Penh, I'm a very dedicated person
-        and passionate about mobile development. I have been working in this
-        field for more than 5 years. I have a strong knowledge of mobile
-        development and I'm always looking for new challenges.
+        Driven Software Engineering student with expertise in machine learning,
+        mobile development, and project management. Skilled in integrating OCR
+        and classification models, cross-platform app development (Flutter,
+        iOS), and backend frameworks (Node.js, Rails, FastAPI).
       </p>
 
       <a href="#contact" className="button button--flex">
