@@ -105,6 +105,24 @@ const Portfolio = () => {
                 <spam className="portfolio__line"></spam>
               </div>
             </div>
+            {/* Second Internship */}
+            <div className="portfolio__data">
+              <div></div>
+              <div>
+                <spam className="portfolio__rounder"></spam>
+                <spam className="portfolio__line"></spam>
+              </div>
+              <div>
+                <h3 className="portfolio__title">Full-stack Developer (Intern)</h3>
+                <span className="portfolio__subtitle">
+                  Ministry of Interior - MoI
+                </span>
+                <div className="portfolio__calendar">
+                  <i className="uil uil-calendar-alt"></i>
+                  2025 - Present
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
