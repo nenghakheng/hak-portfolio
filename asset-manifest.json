@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hak-portfolio/static/css/main.cd1afb7b.css",
-    "main.js": "/hak-portfolio/static/js/main.2cc7f638.js",
-    "static/media/profile-pic.JPG": "/hak-portfolio/static/media/profile-pic.1f87cf294fa3df299adf.JPG",
-    "static/media/Heng Nenghak - CV.pdf": "/hak-portfolio/static/media/Heng Nenghak - CV.c47ed9bc376c7d91bb37.pdf",
-    "static/media/cv-pic.jpg": "/hak-portfolio/static/media/cv-pic.9d4e8c1a61b293907d1f.jpg",
-    "index.html": "/hak-portfolio/index.html",
-    "main.cd1afb7b.css.map": "/hak-portfolio/static/css/main.cd1afb7b.css.map",
-    "main.2cc7f638.js.map": "/hak-portfolio/static/js/main.2cc7f638.js.map"
+    "main.css": "/static/css/main.64e34001.css",
+    "main.js": "/static/js/main.bbb8c74e.js",
+    "static/media/profile-pic.JPG": "/static/media/profile-pic.1f87cf294fa3df299adf.JPG",
+    "static/media/Heng Nenghak - CV.pdf": "/static/media/Heng Nenghak - CV.c47ed9bc376c7d91bb37.pdf",
+    "static/media/cv-pic.jpg": "/static/media/cv-pic.9d4e8c1a61b293907d1f.jpg",
+    "index.html": "/index.html",
+    "main.64e34001.css.map": "/static/css/main.64e34001.css.map",
+    "main.bbb8c74e.js.map": "/static/js/main.bbb8c74e.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd1afb7b.css",
-    "static/js/main.2cc7f638.js"
+    "static/css/main.64e34001.css",
+    "static/js/main.bbb8c74e.js"
   ]
 }
